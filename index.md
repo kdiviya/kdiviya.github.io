@@ -17,10 +17,9 @@ Today, I’m focused on building scalable, efficient solutions and continuously 
 
 ## [My Projects](/projects.md)
 
-## Contact me at
+## [Contact me at](/contact.md)
 
-- [LinkedIn](https://www.linkedin.com/in/diviyaiswariyak)
-- [Email](mailto:eraiswaryabe@gmail.com)
+
 
 
 
