@@ -9,7 +9,7 @@ Today, I’m focused on building scalable, efficient solutions and continuously 
 
 [Download my Resume](assets/LaunchCodeResume-2025.pdf)
 
-[My Projects](/projects.md)
+## [My Projects](/projects.md)
 
 ## Contact me at
 
