@@ -2,7 +2,8 @@
 
 My professional journey in technology began as a software testing engineer, where my natural curiosity and drive to understand how things work led me to explore the inner workings of software systems and the importance of quality in building great products. This role provided valuable insight into how different components of an application interact and function together.
 
-Over time, my fascination with software architecture and development deepened, motivating me to pursue a path in software engineering. This growing interest inspired me to pursue software development by enrolling in LaunchCode’s software development course. During the program, I sharpened my skills in 
+Over time, my fascination with software architecture and development deepened, motivating me to pursue a path in software engineering. This growing interest inspired me to pursue software development by enrolling in LaunchCode’s software development course. During the program, I sharpened my skills in:
+
     - JavaScript
     - React
     - Java
