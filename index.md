@@ -13,7 +13,7 @@ Over time, my fascination with software architecture and development deepened, m
 Today, I’m focused on building scalable, efficient solutions and continuously learning new technologies. I enjoy solving complex problems, collaborating with others, and contributing to meaningful, user-centered projects. I’m excited to connect with fellow professionals, work on innovative solutions, and grow within the vibrant tech community.
 
 
-[Download my Resume](assets/LaunchCodeResume-2025.pdf)
+## [Download my Resume](assets/LaunchCodeResume-2025.pdf)
 
 ## [My Projects](/projects.md)
 
