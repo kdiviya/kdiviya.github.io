@@ -5,3 +5,11 @@ h2 {
     border-bottom: 2px solid black;
 
 }
+
+.portfolio-pic {
+    width: 150px;
+    height: 150px;
+    display:block;
+    margin: 0 auto 20px auto;
+}
+    
