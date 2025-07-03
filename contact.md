@@ -1,2 +1,0 @@
-- [LinkedIn](https://www.linkedin.com/in/diviyaiswariyak)
-- [Email](mailto:eraiswaryabe@gmail.com)
