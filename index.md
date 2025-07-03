@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="assets/css/style.css">
-<h1 class="title">Diviyaiswariya Kasiviswanathan</h1>
+<h1 class="title">Diviyaiswariya Kasiviswanathan, Full Stack Developer</h1>
 <img src="images/portfolio.jpeg" alt="My Portfolio Photo" class="portfolio-pic">
 ## About me
 My professional journey in technology began as a software testing engineer, where my natural curiosity and drive to understand how things work led me to explore the inner workings of software systems and the importance of quality in building great products. This role provided valuable insight into how different components of an application interact and function together.
