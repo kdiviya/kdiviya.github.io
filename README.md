@@ -1,4 +1,3 @@
-# kdiviya.github.io
 
     My professional journey in technology began as a software testing engineer, where my natural curiosity and drive to understand how things work led me to explore the inner workings of software systems and the value of quality in building great products. This role gave me valuable insight into how different components of an application interact and function together.
     
