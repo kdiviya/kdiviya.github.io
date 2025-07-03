@@ -1,3 +1,5 @@
+
+    
     My professional journey in technology began as a software testing engineer, where my natural curiosity 
 and drive to understand how things work led me to explore the inner workings of software systems and the 
 importance of quality in building great products. This role provided valuable insight into how different 
