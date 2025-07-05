@@ -1,19 +1,15 @@
 .title {
     color:black;
-    font-weight:bold;
-   
-    
+    font-weight:bold;    
 }
 h2 {
 
     color:black;
     font-weight:bold;
-    
-
 }
 
 .portfolio-pic {
-    width: 150px;
+    width: 350px;
     height: 150px;
     display:block;}
     
