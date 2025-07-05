@@ -3,7 +3,7 @@ body {
     max-width: 900px;
     margin:auto;
     padding:20px;
-    background-color: #bac8ee;
+    background-color: #bae0ee;
 }
 .about_me {
     display: flex;
@@ -34,6 +34,6 @@ body {
     width: 600px;
     height: 300px;
     border-radius: 0%;
-    border: 3px solid #090909;
+    border: 1px solid #090909;
   }
     
