@@ -1,27 +1,39 @@
-.title {
-    color:black;
-    font-weight:bold;    
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 900px;
+    margin:auto;
+    padding:20px;
+    background-color: #bac8ee;
 }
-h2 {
-
-    color:black;
-    font-weight:bold;
-}
-
-.about-section {
+.about_me {
     display: flex;
-    align-items: flex-start;
+    flex-wrap: wrap;
     gap: 30px;
     margin-bottom: 40px;
-    flex-wrap: wrap;
+    align-items: center;
   }
   
-  .profile-pic {
-    width: 180px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid #007acc;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  .portfolio-pic {
+    width: 900px;
+    height: 400px;
+    border-radius: 0%;
+    border: 1px solid #0c0c0c;   
+  }
+  
+  .resume {
+    color: #090909;
+    text-decoration: none;
+  }
+
+  .resume:hover {
+    color: rgb(65, 65, 236);
+
+  }
+
+  .project_homepage {
+    width: 600px;
+    height: 300px;
+    border-radius: 0%;
+    border: 3px solid #090909;
   }
     
