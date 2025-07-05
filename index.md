@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <h1 class="title">Diviyaiswariya Kasiviswanathan, Full Stack Developer</h1>
+<div class= "about">
 <img src="images/portfolio.jpg" alt="My Portfolio Photo" class="portfolio-pic">
 ## About me
 My professional journey in technology began as a software testing engineer, where my natural curiosity and drive to understand how things work led me to explore the inner workings of software systems and the importance of quality in building great products. This role provided valuable insight into how different components of an application interact and function together.
@@ -13,7 +14,7 @@ Over time, my fascination with software architecture and development deepened, m
     - MySQL
 
 Today, I’m focused on building scalable, efficient solutions and continuously learning new technologies. I enjoy solving complex problems, collaborating with others, and contributing to meaningful, user-centered projects. I’m excited to connect with fellow professionals, work on innovative solutions, and grow within the vibrant tech community.
-
+ </div>
 
 ## [Download my Resume](assets/LaunchCodeResume-2025.pdf)
 
